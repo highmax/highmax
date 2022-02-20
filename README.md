@@ -11,4 +11,11 @@ In my free time I like to do exercise (🏋️‍♂️), to watch movies (🎞�
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandronavarrodimas)](https://www.linkedin.com/in/alejandronavarrodimas)
 [![Soundcloud Badge](https://img.shields.io/badge/Soundcloud-orange?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/high_max)](https://soundcloud.com/high_max)
 
-[![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=highmax&include_all_commits=true&theme=light&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/highmax)
+<div align="left" style="display: flex;">
+  
+[![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=highmax&include_all_commits=true&theme=gradient&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/highmax)
+
+[![Alejandro's most used languages stats](
+https://github-readme-stats.vercel.app/api/top-langs/?username=highmax&layout=compact&langs_count=7&theme=gradient)](https://github.com/highmax)
+</div>
+
