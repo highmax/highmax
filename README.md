@@ -7,6 +7,7 @@ In my free time I like to do exercise (🏋️‍♂️), to watch movies (🎞�
 - 🤓 I'm learning about web3 technologies like smart-contracts, Solidity, and Web3JS.
 - ❔ Ask me about ReactJS, VueJS.
 - 🤝 I'm looking to collaborate on Open Source Projects.
+- 👷 Currently I'm contributing to [UI Component Repository](https://github.com/unicoderns/ui)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandronavarrodimas)](https://www.linkedin.com/in/alejandronavarrodimas)
 [![Soundcloud Badge](https://img.shields.io/badge/Soundcloud-orange?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/high_max)](https://soundcloud.com/high_max)
