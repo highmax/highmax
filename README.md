@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-My name is Alejandro Navarro from Colombia (🇨🇴). I've been working as Front-End Developer since 2015 and currently I'm Web Consultant at Gorilla Logic. I'm passionate about Javascript, CSS, React, VueJS, electronic music production, and 3D modeling.
+My name is Alejandro Navarro from Colombia (🇨🇴). I've been working as Front-End Developer since 2015 and currently I'm Web Developer at Force Manager. I'm passionate about Javascript, CSS, React, VueJS, electronic music production, and 3D modeling.
 
 In my free time I like to do exercise (🏋️‍♂️), to watch movies (🎞️) and series (📺), travel (🛩️), to read books (📚 my favorite is Sapiens by [Yuval Noah Harari](https://www.ynharari.com/book/sapiens-2/)), and try new food (🍜).
 
