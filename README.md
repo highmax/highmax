@@ -4,7 +4,7 @@ My name is Alejandro Navarro from Colombia (🇨🇴). I've been working as Fron
 
 In my free time I like to do exercise (🏋️‍♂️), to watch movies (🎞️) and series (📺), travel (🛩️), to read books (📚 my favorite is Sapiens by [Yuval Noah Harari](https://www.ynharari.com/book/sapiens-2/)), and try new food (🍜).
 
-- 🤓 I'm learning about web3 technologies like smart-contracts, Solidity, and Web3JS.
+- 🤓 I'm learning about web3 technologies like smart-contracts, Solidity, Web3JS and Python 🐍.
 - ❔ Ask me about ReactJS, VueJS.
 - 🤝 I'm looking to collaborate on Open Source Projects.
 - 👷 Currently I'm contributing to [UI Component Repository](https://github.com/unicoderns/ui)
