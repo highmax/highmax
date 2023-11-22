@@ -14,7 +14,7 @@ In my free time I like to do exercise (🏋️‍♂️), to watch movies (🎞�
 
 <div align="left">
   <a href="https://github.com/highmax">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=highmax&theme=default&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=highmax&theme=default&show_icons=true&hide_border=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highmax&layout=compact&langs_count=7&theme=gradient"/>
   </a>
 </div>
