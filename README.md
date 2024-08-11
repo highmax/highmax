@@ -1,36 +1,29 @@
-## Hi there! 👋
+👋 Hi, My name is Alejandro Navarro!
 
-My name is Alejandro Navarro from Colombia (🇨🇴). I've been working as Front-End Developer since 2015 and currently I'm Web Developer at Rootstrap. I'm passionate about Javascript, CSS, React, VueJS, electronic music production, and 3D modeling.
+I'm Senior Frontend Developer at **Rootstrap** and systems engineer focused in web development.
 
-In my free time I like to do exercise (🏋️‍♂️), to watch movies (🎞️) and series (📺), travel (🛩️), to read books (📚 my favorite is Sapiens by [Yuval Noah Harari](https://www.ynharari.com/book/sapiens-2/)), and try new food (🍜).
+## About Me
+A passionate frontend developer with nearly 9 years of experience in the software development world. My focus lies in creating exceptional and highly functional web applications.
 
-- 🤓 I'm learning about web3 technologies like smart-contracts, Solidity, Web3JS and Python 🐍.
-- ❔ Ask me about ReactJS, VueJS.
-- 🤝 I'm looking to collaborate on Open Source Projects.
-- 👷 Currently I'm contributing to [UI Component Repository](https://github.com/unicoderns/ui)
+## Technical Skills 🛠️
+- **Languages**: Javascript, Typescript.
+- **Frameworks & Libraries**: React, Next.js, Vue, Tailwind, Vuex, Styled Components, Redux Toolkit, Node.js, Jest, React Testing Library, Bootstrap.
+- **Tools & Platforms**: GitHub, JIRA, Vite, Docker, VS Code, Terminal, Figma.
+- **Currently Learnign about**: AI, Machine learning, Python, and LLMs.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandronavarrodimas)](https://www.linkedin.com/in/alejandronavarrodimas)
-[![Soundcloud Badge](https://img.shields.io/badge/Soundcloud-orange?style=flat-square&logo=Soundcloud&logoColor=white&link=https://soundcloud.com/high_max)](https://soundcloud.com/high_max)
+## Professional Goals 🎯
+- **Career Development**:
+  - Mentor junior developers and contribute to team growth and knowledge sharing.
+  - Take on more complex architectural decisions in large-scale web applications.
+  - Expand expertise in full-stack development to broaden project involvement.
+- **Continous Learning**:
+  - Master AI and machine learning concepts, particularly their applications in frontend development. Become proficient in Python for backend and data analysis tasks.
+  - Stay updated with the latest frontend frameworks and best practices.
+  - Contribute to open-source projects to enhance skills and give back to the community.
 
-<div align="left">
-  <a href="https://github.com/highmax">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=highmax&theme=default&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=highmax&layout=compact&langs_count=7&theme=gradient"/>
-  </a>
-</div>
+## Connect With Me 📞
 
-#### Technologies I ❤️‍🔥 to use
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alejandronavarrodimas/)
+- 📬 [Email](alejandronavarrodimas@gmail.com)
 
-<div style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" align="center" alt="javascript logo" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="react logo" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" align="center" alt="vue logo" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" align="center" alt="redux logo" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" alt="css3 logo" width="30" height="30"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" align="center" alt="tailwind logo" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="typescript logo" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="node logo" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" alt="vs code logo" width="30" height="30"/>
-  
-  
-</div>
+🤝 I'm looking to collaborate on Open Source Projects. 
