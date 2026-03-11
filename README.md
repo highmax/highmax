@@ -1,6 +1,6 @@
 👋 Hi, My name is Alejandro Navarro!
 
-I'm Senior Frontend Developer at **Rootstrap** and systems engineer focused in web development.
+I'm Senior Frontend Developer and systems engineer focused in web development.
 
 ## About Me
 A passionate frontend developer with nearly 9 years of experience in the software development world. My focus lies in creating exceptional and highly functional web applications.
